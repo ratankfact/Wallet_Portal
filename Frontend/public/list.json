@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Amazon e-Books",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723630554~exp=1723634154~hmac=6018e27a2ff5b80951d4b9c9e58ff940671ba456b2539223761030e4238530d4&w=740",
+        "link": "/mycourse/amazon-course-curriculum"
+    },
+    {
+        "id": 2,
+        "name": "Amazon Four Days Training",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": "0",
+        "category": "Amazon",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723630554~exp=1723634154~hmac=6018e27a2ff5b80951d4b9c9e58ff940671ba456b2539223761030e4238530d4&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Amazon Marathon",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": "0",
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723630554~exp=1723634154~hmac=6018e27a2ff5b80951d4b9c9e58ff940671ba456b2539223761030e4238530d4&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Amazon e-Books",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723630554~exp=1723634154~hmac=6018e27a2ff5b80951d4b9c9e58ff940671ba456b2539223761030e4238530d4&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Amazon e-Books",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723630554~exp=1723634154~hmac=6018e27a2ff5b80951d4b9c9e58ff940671ba456b2539223761030e4238530d4&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Amazon e-Books",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723630554~exp=1723634154~hmac=6018e27a2ff5b80951d4b9c9e58ff940671ba456b2539223761030e4238530d4&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Amazon e-Books",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": "0",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723630554~exp=1723634154~hmac=6018e27a2ff5b80951d4b9c9e58ff940671ba456b2539223761030e4238530d4&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Earn Money",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": "0",
+        "category": "Song",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723630554~exp=1723634154~hmac=6018e27a2ff5b80951d4b9c9e58ff940671ba456b2539223761030e4238530d4&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Amazon e-Books",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": "400",
+        "category": "Four Days",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723630554~exp=1723634154~hmac=6018e27a2ff5b80951d4b9c9e58ff940671ba456b2539223761030e4238530d4&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Amazon e-Books",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": "200",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723630554~exp=1723634154~hmac=6018e27a2ff5b80951d4b9c9e58ff940671ba456b2539223761030e4238530d4&w=740"
+    }
+]
