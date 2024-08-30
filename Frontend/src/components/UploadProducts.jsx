@@ -105,7 +105,7 @@ const UploadProducts = () => {
         <div className="mb-6">
           <h3 className="text-xl font-semibold mb-2">{editingIndex !== null ? 'Edit Product' : 'Add Product'}</h3>
           <div className="overflow-x-auto">
-            <table className="min-w-full bg-white shadow-md rounded-lg border border-gray-200">
+            <table className="min-w-full bg-white text-black shadow-md rounded-lg border border-gray-200">
               <tbody>
                 <tr>
                   <td className="py-2 px-4 border-b border-gray-200">SKU</td>

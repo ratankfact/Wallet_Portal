@@ -110,6 +110,7 @@ const UserForm = () => {
     return '';
   };
 
+
   return (
     <DispatchLayout>
       <div className="relative max-w-6xl mx-auto p-6 mt-5 pb-20 z-10 h-8 w-30">
@@ -125,7 +126,7 @@ const UserForm = () => {
           <form id="user-form" onSubmit={handleSubmit}>
             <table className="min-w-full bg-white shadow-md rounded-lg overflow-hidden">
               <thead>
-                <tr className="bg-white text-black uppercase text-sm leading-normal h-8">
+                <tr className="bg-gray-100 text-black uppercase text-sm leading-normal h-8">
                   <th className="py-3 px-4 text-left whitespace-nowrap">SN.</th>
                   <th className="py-3 px-4 text-left whitespace-nowrap">Date</th>
                   <th className="py-3 px-4 text-left whitespace-nowrap">Brand Name</th>
@@ -141,7 +142,7 @@ const UserForm = () => {
                 </tr>
 
               </thead>
-              <tbody className="text-gray-600 text-sm font-light whitespace-nowrap leading-tight">
+              <tbody className="text-gray-900 text-sm font-light whitespace-nowrap leading-tight">
                 {formData.map((data, index) => (
                   <tr
                     key={index}

@@ -43,7 +43,7 @@ const Wallet = () => {
                 </div>
 
                 {/* Add Balance Section */}
-                <div className="bg-white p-4 rounded-lg shadow-md mb-6">
+                <div className="bg-white p-4 rounded-lg shadow-md mb-6 text-black">
                     <h3 className="text-lg font-bold mb-4">Add Balance:</h3>
                     <div className="grid grid-cols-3 gap-4 mb-4">
                         <button
@@ -79,7 +79,7 @@ const Wallet = () => {
                 </div>
 
                 {/* Recent Transactions Section */}
-                <div className="bg-white p-4 rounded-lg shadow-md">
+                <div className="bg-white p-4 rounded-lg shadow-md text-black">
                     <h3 className="text-lg font-bold mb-4">Recent Transactions:</h3>
                     <ul className="space-y-2">
                         {recentTransactions.map((transaction) => (

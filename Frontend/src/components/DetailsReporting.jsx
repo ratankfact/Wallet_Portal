@@ -73,7 +73,7 @@ const DetailsReporting = () => {
   return (
     <DispatchLayout>
       <div className="relative max-w-7xl mx-auto p-6 mt-8 pb-20 min-h-screen">
-        <h1 className="text-3xl font-bold text-center text-gray-800 mb-1 underline">Manager Performance Dashboard</h1>
+        <h1 className="text-3xl font-bold text-center text-gray-800 mb-1">Manager Performance Dashboard</h1>
 
         {/* Manager Info */}
         <div className="bg-white shadow-md rounded-lg p-6 mb-8">

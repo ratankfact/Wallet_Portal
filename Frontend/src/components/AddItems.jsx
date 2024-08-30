@@ -61,7 +61,7 @@ const AddItems = () => {
 
   return (
     <DispatchLayout>
-      <main className="max-w-6xl mx-auto my-8 p-4 bg-white shadow-md rounded-md">
+      <main className="max-w-6xl mx-auto my-8 p-4 bg-white shadow-md rounded-md text-black">
         <h1 className="text-lg font-bold mb-6 text-center underline">Add Items for Order {orderId}</h1>
         <form onSubmit={handleSubmit} className="bg-white p-6 rounded-md shadow-md mb-6">
           <div className="overflow-x-auto">
